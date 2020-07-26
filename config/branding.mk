@@ -2,7 +2,7 @@
 DU_BASE_VERSION = v14.5
 
 ifndef DU_BUILD_TYPE
-    DU_BUILD_TYPE := UNOFFICIAL
+    DU_BUILD_TYPE := TakeAStepBack
 endif
 
 # Only include DU-Updater for official, weeklies, and rc builds
