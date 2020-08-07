@@ -2,7 +2,6 @@
 PRODUCT_PACKAGES += \
     DU-Themes \
     LatinIMEGooglePrebuilt \
-    NexusLauncherRelease \
     SoundPickerPrebuilt \
     WallpaperPicker2
 
