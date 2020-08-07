@@ -2,7 +2,7 @@
 DU_BASE_VERSION = v14.5
 
 ifndef DU_BUILD_TYPE
-    DU_BUILD_TYPE := Hope
+    DU_BUILD_TYPE := TheRemedyForABrokenHeart
 endif
 
 # Only include DU-Updater for official, weeklies, and rc builds
