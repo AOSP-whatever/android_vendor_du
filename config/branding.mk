@@ -2,7 +2,7 @@
 DU_BASE_VERSION = v14.6
 
 ifndef DU_BUILD_TYPE
-    DU_BUILD_TYPE := TheRemedyForABrokenHeart
+    DU_BUILD_TYPE := EveryoneDiesInTheirNightmares
 endif
 
 # Only include DU-Updater for official, weeklies, and rc builds
