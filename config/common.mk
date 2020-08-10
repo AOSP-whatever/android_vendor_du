@@ -42,7 +42,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/extras/build/tools/backuptool.sh:install/bin/backuptool.sh \
     vendor/extras/build/tools/backuptool.functions:install/bin/backuptool.functions \
-    vendor/extras/build/tools/50-du.sh:system/addon.d/50-du.sh
+    vendor/extras/build/tools/50-du.sh:system/addon.d/50-du.sh \
+    vendor/extras/build/tools/blacklist:system/addon.d/blacklist
 
 # Packages
 include vendor/du/config/packages.mk
