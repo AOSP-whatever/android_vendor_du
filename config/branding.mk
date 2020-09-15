@@ -2,7 +2,7 @@
 DU_BASE_VERSION = v14.7
 
 ifndef DU_BUILD_TYPE
-    DU_BUILD_TYPE := SAD
+    DU_BUILD_TYPE := FINALE
 endif
 
 # Only include DU-Updater for official, weeklies, and rc builds
