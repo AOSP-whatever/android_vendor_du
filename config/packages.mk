@@ -12,3 +12,12 @@ PRODUCT_PACKAGES += \
 # Integrates package for easier Google Pay fixing
 PRODUCT_PACKAGES += \
     sqlite3
+
+# Filesystems tools
+PRODUCT_PACKAGES += \
+    fsck.exfat \
+    fsck.ntfs \
+    mke2fs \
+    mkfs.exfat \
+    mkfs.ntfs \
+    mount.ntfs
