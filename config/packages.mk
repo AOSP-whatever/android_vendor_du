@@ -1,6 +1,7 @@
 # Packages
 PRODUCT_PACKAGES += \
     DU-Themes \
+    NexusLauncherRelease \
     SoundPickerPrebuilt \
     WallpaperPicker2
 
