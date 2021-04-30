@@ -32,5 +32,5 @@ ROM_FINGERPRINT := DirtyUnicorns/$(PLATFORM_VERSION)/$(DU_BUILD_TYPE)/$(BUILD_DA
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     BUILD_DISPLAY_ID=$(BUILD_ID) \
     ro.du.version=$(DU_VERSION) \
-    ro.mod.version=$(DU_BUILD_TYPE)-$(DU_BASE_VERSION)-$(BUILD_DATE) \
+    ro.mod.version=$(DU_BUILD_TYPE)-$(DU_BASE_VERSION)-$(BUILD_DATE)-$(BUILD_TIME) \
     ro.du.fingerprint=$(ROM_FINGERPRINT)
